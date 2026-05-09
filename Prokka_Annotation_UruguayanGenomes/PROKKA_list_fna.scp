@@ -1,0 +1,29 @@
+#!/bin/bash
+
+#> Autor: Andrés Iriarte, Lab. de Biología Computacional, Dpto. Biotecnología
+#> Fecha: 20/04/2026
+#> Ultima Modificacion: 20/04/2026
+#> Objetivo: use prokka software (installed in conda, to annotate all assemblies in list.
+#            Run using parallel (to take advantage of multiple cores) 
+#            Software was obtained from conda
+                #conda create -n prokka_env -c bioconda -c conda-forge prokka
+                #conda activate prokka_env
+                #conda install -c bioconda hmmer
+                #prokka --setupdb
+ 
+#> Usage: ./PROKKA_list_fna.scp archivo_listadeassemblies ### el $1 es el argumento que llama a la lista para procesar 
+
+#output file name, second argument
+workingdirectory=$(pwd)
+
+#conda need to be activated (mlst is insalled in the core), can be installed in an specific environment, please change in next line
+source ~/anaconda3/etc/profile.d/conda.sh
+conda activate prokka_env
+
+# Ejecutar Parallel
+# Usamos --joblog para que si el script se corta, sepas cuáles faltaron
+parallel -a "$1" -j 30 --joblog progreso.log "prokka --cpus 1 --outdir {.}_ann --prefix {.} {}"
+
+echo "Proceso terminado el $(date)"
+
+exit
