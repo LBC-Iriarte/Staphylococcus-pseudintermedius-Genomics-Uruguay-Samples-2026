@@ -1,0 +1,13 @@
+#!/bin/bash
+
+cp $1 temp
+
+tenes=$(awk '{print $1}' "$2")
+for ten in $tenes
+do
+	echo "$ten"
+	NOMCOMP=$(egrep -w "$ten" "$2" | awk '{print $2}') 
+	sed -i 's/'$ten':/'$NOMCOMP':/g' temp
+done
+cp temp "$1".LN.tre
+exit

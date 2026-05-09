@@ -1,0 +1,33 @@
+sample	type	status	targets	missing	coverage	hits	schema	schema_version	camlhmp_version	params	comment
+sccmec	Ia	False		Ia	16.36	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits
+sccmec	Ib	False		Ib	16.40	1	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	
+sccmec	IIa	False		IIa	14.42	8	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 8 hits;There were one or more overlapping hits
+sccmec	IIb	False		IIb	9.79	2	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 2 hits
+sccmec	IIc	False		IIc	30.69	4	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 4 hits;There were one or more overlapping hits
+sccmec	IId	False		IId	0.00	0	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	
+sccmec	IIe	False		IIe	9.39	1	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	
+sccmec	III	False		III	23.62	12	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 12 hits;There were one or more overlapping hits
+sccmec	IVa	False		IVa	24.65	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits
+sccmec	IVb	False		IVb	29.53	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits
+sccmec	IVc	False		IVc	33.96	12	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 12 hits;There were one or more overlapping hits
+sccmec	IVd	False		IVd	0.00	0	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	
+sccmec	IVg	False		IVg	27.78	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits
+sccmec	IVi	False		IVi	27.81	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits
+sccmec	IVj	False		IVj	27.57	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits
+sccmec	IVk	False		IVk	14.72	8	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 8 hits;There were one or more overlapping hits
+sccmec	IVl	False		IVl	17.84	9	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 9 hits;There were one or more overlapping hits
+sccmec	IVm	False		IVm	23.77	9	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 9 hits;There were one or more overlapping hits
+sccmec	IVn	False		IVn	25.63	8	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 8 hits;There were one or more overlapping hits
+sccmec	Va	False		Va	52.44	9	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 9 hits;There were one or more overlapping hits
+sccmec	Vb	False		Vb	50.26	14	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 14 hits;There were one or more overlapping hits
+sccmec	Vc	False		Vc	48.05	12	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 12 hits;There were one or more overlapping hits
+sccmec	VI	False		VI	27.60	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits
+sccmec	VII	False		VII	40.52	9	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 9 hits;There were one or more overlapping hits
+sccmec	VIII	False		VIII	22.79	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits
+sccmec	IX	False		IX	25.30	9	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 9 hits;There were one or more overlapping hits
+sccmec	X	False		X	12.48	11	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 11 hits;There were one or more overlapping hits
+sccmec	XI	False		XI	4.52	1	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	
+sccmec	XII	False		XII	14.44	10	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 10 hits;There were one or more overlapping hits
+sccmec	XIII	False		XIII	36.19	10	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 10 hits;There were one or more overlapping hits
+sccmec	XIV	False		XIV	26.57	15	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 15 hits;There were one or more overlapping hits
+sccmec	XV	False		XV	21.80	7	sccmec_regions	1.2.0	1.1.4	min-coverage=85;min-pident=83	Coverage based on 7 hits;There were one or more overlapping hits

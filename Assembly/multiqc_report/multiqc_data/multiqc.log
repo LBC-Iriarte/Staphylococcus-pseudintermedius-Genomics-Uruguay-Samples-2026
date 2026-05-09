@@ -1,0 +1,4 @@
+[2025-09-11 10:49:04,720] multiqc.core.version_check                         [WARNING]  MultiQC Version v1.31 now available!
+[2025-09-11 10:49:04,721] multiqc.core.file_search                           [INFO   ]  Search path: /mnt/Disco2TB_B/lucas_proyecto/datos_crudos/17092023/fastaqc_out
+[2025-09-11 10:49:05,547] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 26 reports
+[2025-09-11 10:49:05,653] multiqc.plots.violin                               [WARNING]  Tried to make table/violin plot, but had no data. pconfig: {'namespace': 'FastQC', 'id': 'fastqc_top_overrepresented_sequences_table', 'title': 'FastQC: Top overrepresented sequences', 'col1_header': 'Overrepresented sequence', 'sort_rows': False}

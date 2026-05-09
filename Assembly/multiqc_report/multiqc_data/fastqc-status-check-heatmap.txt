@@ -1,0 +1,27 @@
+.	Basic Statistics	Per Base Sequence Quality	Per Tile Sequence Quality	Per Sequence Quality Scores	Per Base Sequence Content	Per Sequence GC Content	Per Base N Content	Sequence Length Distribution	Sequence Duplication Levels	Overrepresented Sequences	Adapter Content
+E13_1	1	1	0.5	1	1	1	1	1	0.25	1	1
+E13_2	1	1	1	1	1	1	1	1	0.25	1	1
+E29_A_1	1	1	1	1	1	1	1	1	0.25	1	1
+E29_A_2	1	1	1	1	1	1	1	1	0.25	1	1
+E36_1	1	1	1	1	1	1	1	1	0.25	1	1
+E36_2	1	1	1	1	1	1	1	1	0.25	1	1
+E39_A_1	1	1	1	1	1	1	1	1	0.25	1	1
+E39_A_2	1	1	1	1	1	1	1	1	0.25	1	1
+E8_1	1	1	1	1	1	1	1	1	0.25	1	1
+E8_2	1	1	1	1	1	1	1	1	0.25	1	1
+M12_1	1	1	1	1	1	1	1	1	0.25	1	1
+M12_2	1	1	1	1	1	1	1	1	0.25	1	1
+M1_1	1	1	1	1	1	1	1	1	0.25	1	1
+M1_2	1	1	1	1	1	1	1	1	0.25	1	1
+RAM22_1	1	1	1	1	1	1	1	1	0.25	1	1
+RAM22_2	1	1	1	1	1	1	1	1	0.25	1	1
+RAM23_1	1	1	1	1	1	1	1	1	0.25	1	1
+RAM23_2	1	1	1	1	1	1	1	1	0.25	1	1
+RAM33_1	1	1	0.5	1	1	1	1	1	0.25	1	1
+RAM33_2	1	1	1	1	1	1	1	1	0.25	1	1
+RAM46_1	1	1	1	1	1	1	1	1	0.25	1	1
+RAM46_2	1	1	1	1	1	1	1	1	0.25	1	1
+RAM54_1	1	1	1	1	1	1	1	1	0.25	1	1
+RAM54_2	1	1	1	1	1	1	1	1	0.25	1	1
+RAM87_1	1	1	1	1	1	1	1	1	0.25	1	1
+RAM87_2	1	1	1	1	1	1	1	1	0.25	1	1

@@ -1,0 +1,31 @@
+#!/bin/bash
+
+#> Autor: Andrés Iriarte, Lab. de Biología Computacional, Dpto. Biotecnología
+#> Fecha: 16/04/2026
+#> Ultima Modificacion: 16/04/2026
+#> Objetivo: use mlst software (installed in conda, to predict the MLST of assemblies.
+#	     Run using parallel (to take advantage of multiple cores) 
+#	     Software was obtained from https://github.com/tseemann/mlst 
+#> Usage: ./MLST_list_fna.scp Path_where_all_fna_files_are
+
+#output file name, second argument
+salida=$(echo mlst.output.tsv)
+echo Salida grabada en "$2"
+echo si no se especifica nada en mlst.output.tsv
+salida=$(echo $2)
+
+#Save current directory (to come back)
+workingdirectory=$(pwd)
+
+#conda need to be activated (mlst is insalled in the core), can be installed in an specific environment, please change in next line
+conda activate
+
+echo "Path to fna files:"
+echo $1
+cd "$1"
+	ls *.fna | parallel mlst {} > "$workingdirectory"/"$salida"
+cd $workingdirectory
+exit
+
+	
+

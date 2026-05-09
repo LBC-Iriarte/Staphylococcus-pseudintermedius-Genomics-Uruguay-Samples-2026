@@ -1,0 +1,9 @@
+#mlst analysis
+
+#Installed by conda, https://github.com/tseemann/mlst - Torsten Seemann
+
+#Run for each assembly downloaded from NCBI
+./MLST_list_fna.scp Path_where_all_fna_files_are Mlst.output.tsv
+
+
+

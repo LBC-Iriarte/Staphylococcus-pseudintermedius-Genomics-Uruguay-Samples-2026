@@ -1,0 +1,27 @@
+Sample	Filename	File type	Encoding	Total Sequences	Total Bases	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	median_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+E13_1	E13_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	11206504.0	1.6 Gbp	0.0	151.0	37.0	42.58426900810771	151.0	151	pass	pass	warn	pass	pass	pass	pass	pass	fail	pass	pass
+E13_2	E13_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	11206504.0	1.6 Gbp	0.0	151.0	37.0	44.316028524695795	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+E29_A_1	E29_A_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15819865.0	2.3 Gbp	0.0	151.0	32.0	35.988473976547574	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+E29_A_2	E29_A_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15819865.0	2.3 Gbp	0.0	151.0	32.0	36.21015377689753	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+E36_1	E36_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15325795.0	2.3 Gbp	0.0	151.0	32.0	36.43535003220082	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+E36_2	E36_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15325795.0	2.3 Gbp	0.0	151.0	32.0	36.98896063799369	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+E39_A_1	E39_A_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15939346.0	2.4 Gbp	0.0	151.0	32.0	35.32255774978527	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+E39_A_2	E39_A_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15939346.0	2.4 Gbp	0.0	151.0	32.0	35.659554313987925	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+E8_1	E8_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15614931.0	2.3 Gbp	0.0	151.0	37.0	35.41534827175635	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+E8_2	E8_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15614931.0	2.3 Gbp	0.0	151.0	37.0	36.62602625166128	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+M12_1	M12_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	16078369.0	2.4 Gbp	0.0	151.0	37.0	36.863126519249086	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+M12_2	M12_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	16078369.0	2.4 Gbp	0.0	151.0	37.0	37.90831420839659	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+M1_1	M1_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15059691.0	2.2 Gbp	0.0	151.0	37.0	33.8766027881686	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+M1_2	M1_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15059691.0	2.2 Gbp	0.0	151.0	37.0	34.79688106175669	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM22_1	RAM22_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	16218358.0	2.4 Gbp	0.0	151.0	37.0	34.31478938288088	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM22_2	RAM22_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	16218358.0	2.4 Gbp	0.0	151.0	37.0	35.34372116324472	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM23_1	RAM23_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15407243.0	2.3 Gbp	0.0	151.0	37.0	33.80289255807094	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM23_2	RAM23_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15407243.0	2.3 Gbp	0.0	151.0	37.0	34.02559689367007	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM33_1	RAM33_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	12092860.0	1.8 Gbp	0.0	151.0	36.0	40.69457061499777	151.0	151	pass	pass	warn	pass	pass	pass	pass	pass	fail	pass	pass
+RAM33_2	RAM33_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	12092860.0	1.8 Gbp	0.0	151.0	36.0	41.75358620233894	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM46_1	RAM46_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15177899.0	2.2 Gbp	0.0	151.0	37.0	33.589836812177644	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM46_2	RAM46_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15177899.0	2.2 Gbp	0.0	151.0	37.0	34.24306056814413	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM54_1	RAM54_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15645439.0	2.3 Gbp	0.0	151.0	37.0	35.42156977189726	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM54_2	RAM54_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15645439.0	2.3 Gbp	0.0	151.0	37.0	36.335395956035015	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM87_1	RAM87_1.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15927381.0	2.4 Gbp	0.0	151.0	37.0	33.7288010066044	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass
+RAM87_2	RAM87_2.fastq.gz	Conventional base calls	Sanger / Illumina 1.9	15927381.0	2.4 Gbp	0.0	151.0	37.0	34.33799378770123	151.0	151	pass	pass	pass	pass	pass	pass	pass	pass	fail	pass	pass

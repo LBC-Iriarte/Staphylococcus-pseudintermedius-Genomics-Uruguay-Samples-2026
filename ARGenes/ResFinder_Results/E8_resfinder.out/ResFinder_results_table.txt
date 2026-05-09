@@ -1,0 +1,57 @@
+Aminoglycoside
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+ant(6)-Ia	100.00	909/909	100.0	1..909	26 length=7990 depth=1.02x	2000..2908	Streptomycin	AF330699
+aph(3')-III	100.00	795/795	100.0	1..795	26 length=7990 depth=1.02x	3540..4334	Kanamycin, Amikacin, Neomycin, Butirosin, Isepamicin, Lividomycin, Paromomycin, Ribostamycin	M26832
+
+Beta-lactam
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaZ	100.00	849/849	100.0	1..849	6 length=120288 depth=1.10x	61998..62846	Amoxicillin, Ampicillin, Penicillin, Piperacillin	JBTH01000015
+mecA	99.95	2007/2007	100.0	1..2007	10 length=106922 depth=1.12x	82300..84306	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	BX571856
+
+Colistin
+No hit found
+
+Fosfomycin
+No hit found
+
+Fusidic Acid
+No hit found
+
+MLS - Macrolide, Lincosamide and Streptogramin B
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+erm(B)	100.00	738/738	100.0	1..738	33 length=1541 depth=0.93x	634..1371	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	AF299292
+
+Misc
+No hit found
+
+Nitroimidazole
+No hit found
+
+Oxazolidinone
+No hit found
+
+Phenicol
+No hit found
+
+Fluoroquinolone
+No hit found
+
+Rifampicin
+No hit found
+
+Sulphonamide
+No hit found
+
+Tetracycline
+No hit found
+
+Trimethoprim
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+dfrG	100.00	498/498	100.0	1..498	6 length=120288 depth=1.10x	44939..45436	Trimethoprim	AB205645
+
+Glycopeptide
+No hit found
+
+Pseudomonic Acid
+No hit found
+

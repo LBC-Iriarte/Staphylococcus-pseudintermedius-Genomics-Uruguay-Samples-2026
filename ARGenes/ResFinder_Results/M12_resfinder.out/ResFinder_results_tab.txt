@@ -1,0 +1,6 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+ant(6)-Ia	100.00	909/909	100.0	1..909	91 length=6704 depth=0.92x	3797..4705	Streptomycin	AF330699
+aph(3')-III	100.00	795/795	100.0	1..795	91 length=6704 depth=0.92x	2371..3165	Kanamycin, Amikacin, Neomycin, Butirosin, Isepamicin, Lividomycin, Paromomycin, Ribostamycin	M26832
+aac(6')-aph(2'')	99.93	1440/1440	100.0	1..1440	157 length=1918 depth=0.41x	80..1519	Gentamicin, Tobramycin, Netilmicin, Kanamycin, Amikacin, Dibekacin, Isepamicin, Fortimicin, Streptomycin	M13771
+erm(B)	100.00	738/738	100.0	1..738	166 length=1541 depth=0.86x	171..908	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	AF299292
+tet(M)	99.84	1920/1920	99.94791666666667	1..1920	36 length=21173 depth=0.55x	15391..17309	Doxycycline, Tetracycline, Minocycline	FN433596

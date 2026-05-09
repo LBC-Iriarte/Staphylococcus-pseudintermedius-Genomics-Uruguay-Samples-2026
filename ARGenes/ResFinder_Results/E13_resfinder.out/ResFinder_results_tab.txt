@@ -1,0 +1,9 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(6')-aph(2'')	100.00	1440/1440	100.0	1..1440	5 length=185322 depth=0.94x	1404..2843	Gentamicin, Tobramycin, Netilmicin, Kanamycin, Amikacin, Dibekacin, Isepamicin, Fortimicin, Streptomycin	M13771
+ant(6)-Ia	100.00	909/909	100.0	1..909	23 length=6949 depth=0.96x	2000..2908	Streptomycin	AF330699
+aph(3')-III	100.00	795/795	100.0	1..795	23 length=6949 depth=0.96x	3540..4334	Kanamycin, Amikacin, Neomycin, Butirosin, Isepamicin, Lividomycin, Paromomycin, Ribostamycin	M26832
+mecA	99.95	2007/2007	100.0	1..2007	2 length=296115 depth=1.04x	211036..213042	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	BX571856
+blaZ	100.00	849/849	100.0	1..849	11 length=82217 depth=1.05x	81119..81967	Amoxicillin, Ampicillin, Penicillin, Piperacillin	JBTH01000015
+erm(B)	100.00	738/738	100.0	1..738	29 length=1541 depth=0.95x	171..908	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	AF299292
+tet(M)	99.95	1920/1920	100.0	1..1920	11 length=82217 depth=1.05x	31688..33607	Doxycycline, Tetracycline, Minocycline	FN433596
+dfrG	100.00	498/498	100.0	1..498	14 length=63283 depth=1.01x	16298..16795	Trimethoprim	AB205645

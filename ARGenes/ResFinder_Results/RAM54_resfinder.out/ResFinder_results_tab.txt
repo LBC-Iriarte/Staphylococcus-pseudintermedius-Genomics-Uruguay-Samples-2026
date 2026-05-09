@@ -1,0 +1,8 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+ant(6)-Ia	100.00	909/909	100.0	1..909	33 length=7289 depth=1.05x	4448..5356	Streptomycin	AF330699
+aph(3')-III	100.00	795/795	100.0	1..795	33 length=7289 depth=1.05x	3022..3816	Kanamycin, Amikacin, Neomycin, Butirosin, Isepamicin, Lividomycin, Paromomycin, Ribostamycin	M26832
+aac(6')-aph(2'')	100.00	1440/1440	100.0	1..1440	38 length=1839 depth=1.96x	78..1517	Gentamicin, Tobramycin, Netilmicin, Kanamycin, Amikacin, Dibekacin, Isepamicin, Fortimicin, Streptomycin	M13771
+blaZ	100.00	849/849	100.0	1..849	10 length=108644 depth=1.05x	248..1096	Amoxicillin, Ampicillin, Penicillin, Piperacillin	JBTH01000015
+mecA	100.00	2007/2007	100.0	1..2007	15 length=73239 depth=1.02x	31404..33410	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefepime, Cefixime, Cefotaxime, Cefoxitin, Ceftazidime, Ertapenem, Imipenem, Meropenem, Piperacillin, Piperacillin+Tazobactam	NC_007168
+erm(B)	100.00	738/738	100.0	1..738	32 length=7343 depth=1.05x	73..810	Erythromycin, Lincomycin, Clindamycin, Quinupristin, Pristinamycin IA, Virginiamycin S	U18931
+cat(pC221)	97.69	648/648	100.0	1..648	32 length=7343 depth=1.05x	4248..4895	Chloramphenicol	X02529

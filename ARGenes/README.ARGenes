@@ -1,0 +1,32 @@
+##RESFINDER
+#INSTALL con conda
+conda create -n resfinder_env -c bioconda resfinder
+conda activate resfinder_env
+
+#BASE DE DATOS
+# Base de genes adquiridos
+git clone https://bitbucket.org/genomicepidemiology/resfinder_db.git
+# Base de mutaciones de punto (PointFinder)
+git clone https://bitbucket.org/genomicepidemiology/pointfinder_db.git
+
+# Indexar ResFinder
+cd resfinder_db
+	python3 INSTALL.py
+cd ..
+
+# Indexar PointFinder
+cd pointfinder_db
+python3 INSTALL.py
+cd ..
+
+#Correr en un solo genoma
+#python3 -m resfinder -ifa xxa.fna -o xxa_resfinder.out  --db_res #/resfinder/resfinder_db --acquired 
+
+
+## SSCmec finder
+
+conda create -n sccmec -c conda-forge -c bioconda sccmec
+conda activate sccmec
+
+# Run with parallel sccmec
+parallel -j 10 'sccmec -i {} -o {/.}' ::: ../Assemblies/*fna

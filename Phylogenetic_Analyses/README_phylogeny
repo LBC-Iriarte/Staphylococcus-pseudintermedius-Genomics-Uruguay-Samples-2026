@@ -1,0 +1,22 @@
+##Phylogentic pipeline
+
+#CODES_ASSEMBLYACC.tab a file containing codes and Assembly accession numbers matching
+
+#All genomes were annotated with Prokka (generated gff files
+ls *gff > gff.lista
+#This files are in the "Panaroo_analysis" directory (ask for this directory to airiarte@higiene.edu.uy)
+
+#Panaroo
+panaroo -i gff.lista -o results --clean-mode strict -a core --aligner mafft --core_threshold 0.95 -t 30
+#output: core_gene_alignment.aln (ask for this directory to airiarte@higiene.edu.uy)
+
+#SNP-sites
+snp-sites -o core_gene_alignment.SNPs.fas core_gene_alignment.aln (ask for this directory to airiarte@higiene.edu.uy)
+
+#Fasttree
+FastTreeMP -gtr -nt core_gene_alignment.SNPs.fas > core_gene_alignment.SNPs.fas.FT.nwk
+
+#Replace codes for assembly accession numbers
+./Nomine.scp core_gene_alignment.SNPs.fas.FT.nwk CODES_ASSEMBLYACC.tab
+#output: core_gene_alignment.SNPs.fas.FT.nwk.LN.tre #This is the tree used for further analysis. 
+
