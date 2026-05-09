@@ -57,8 +57,8 @@ A large-scale comparative analysis was performed including >3,500 publicly avail
 - `Phylogenetic_Analyses/` → Panaroo, SNP-sites, FastTree pipeline  
 - `ARGenes/` → ResFinder and PointFinder analysis  
 - `MLST/` → MLST typing results  
-- `Assemblies/` → Genome assemblies (.fna)  
-- `Prokka_Annotation/` → Prokka output files (.gff, etc.)  
+- `Assembly/` → Genome assemblies (.fna)  
+- `Prokka_Annotation_UruguayanGenomes/` → Prokka output files (.gff, etc.)  
 
 ---
 
