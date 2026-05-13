@@ -34,7 +34,9 @@ cd ..
 
 # Install PointFinder database
 cd pointfinder_db
+
 python3 INSTALL.py
+
 cd ..
 
 ---
