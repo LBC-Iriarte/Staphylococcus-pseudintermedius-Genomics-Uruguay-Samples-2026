@@ -27,7 +27,9 @@ git clone https://bitbucket.org/genomicepidemiology/pointfinder_db.git
 
 # Install ResFinder database
 cd resfinder_db
+
 python3 INSTALL.py
+
 cd ..
 
 # Install PointFinder database
