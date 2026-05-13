@@ -9,6 +9,7 @@ This document describes the workflow for detecting antimicrobial resistance gene
 ### Installation (Conda)
 
 conda create -n resfinder_env -c bioconda resfinder
+
 conda activate resfinder_env
 
 ---
@@ -52,6 +53,7 @@ parallel -j 10 'python3 -m resfinder -ifa {} -o {.}_resfinder.out --db_path_res 
 ### Installation (Conda)
 
 conda create -n sccmec_env -c conda-forge -c bioconda sccmec
+
 conda activate sccmec_env
 
 ---
